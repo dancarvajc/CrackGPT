@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "factory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Factory.git",
+      "state" : {
+        "revision" : "8ca11a7bd1ede031e8e6d7a912bb116e2e43961b",
+        "version" : "2.3.1"
+      }
+    },
+    {
+      "identity" : "iqkeyboardmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hackiftekhar/IQKeyboardManager.git",
+      "state" : {
+        "revision" : "c00b1ae9fa1ad8af4465bb6ca901f6943fc98eba",
+        "version" : "6.5.16"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "revision" : "84e546727d66f1adc5439debad16270d0fdd04e7",
+        "version" : "4.2.2"
+      }
+    },
+    {
+      "identity" : "openai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MacPaw/OpenAI.git",
+      "state" : {
+        "revision" : "ac5892fd0de8d283362ddc30f8e9f1a0eaba8cc0",
+        "version" : "0.2.5"
+      }
+    },
+    {
+      "identity" : "simpleuilist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dancarvajc/SimpleUIList.git",
+      "state" : {
+        "revision" : "6c59dd58c3def5b0eb566eb0742a6df71d2626e2",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "splash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnSundell/Splash",
+      "state" : {
+        "revision" : "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "9e1cc02a65b22e09a8251261cccbccce02731fc5",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "tiktoken",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aespinilla/Tiktoken.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4ad6460448278f7a28f1e4ee2723500369f20acb"
+      }
+    }
+  ],
+  "version" : 2
+}
